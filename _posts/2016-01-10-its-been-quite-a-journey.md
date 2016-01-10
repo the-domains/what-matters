@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: And A Visual One At That
-datePublished: '2016-01-10T14:26:29.845Z'
-dateModified: '2016-01-10T14:26:14.808Z'
+datePublished: '2016-01-10T14:26:42.353Z'
+dateModified: '2016-01-10T14:26:29.845Z'
 title: "It's Been Quite A Journey"
 author: []
 sourcePath: _posts/2016-01-10-its-been-quite-a-journey.md
