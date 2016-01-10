@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Applying The Science Of Frameworks
-datePublished: '2016-01-10T14:26:15.039Z'
-dateModified: '2016-01-10T13:07:00.884Z'
+datePublished: '2016-01-10T14:26:30.202Z'
+dateModified: '2016-01-10T14:26:15.039Z'
 title: Drawing Conclusions
 author: []
 sourcePath: _posts/2016-01-10-drawing-conclusions.md
