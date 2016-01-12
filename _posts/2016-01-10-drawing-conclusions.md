@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Applying The Science Of Frameworks
-datePublished: '2016-01-10T14:26:42.347Z'
-dateModified: '2016-01-10T14:26:30.202Z'
+datePublished: '2016-01-12T18:57:02.982Z'
+dateModified: '2016-01-12T18:56:57.781Z'
 title: Drawing Conclusions
 author: []
 sourcePath: _posts/2016-01-10-drawing-conclusions.md
@@ -26,18 +26,18 @@ What Matters?
 
 > "Any business designed for success in the 20th Century is doomed to fail in the 21st." David Rose
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b582e12d-65af-48f5-b1e9-0902c0eec5bf.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7792b2a5b0116d16c87d96d9c413a9fd5f9b9e9.jpg)
 
 Creating the firm foundations of a team. A team we can transfer the capability to
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a065a57f-2c56-4461-b31d-fdddda080343.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad096cb57cb9c0ed59b3d4cb638f5e634193839b.jpg)
 
 It matters that everyone knows that everything is going to change so 'being prepared' is the first principle
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5dd62ed-5305-4616-b2bd-60bdcd88f4ea.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b13db366494eecc4ad9126c949b05349d32039a7.jpg)
 
 Is everyone really up for the challenge?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e89f12df-f283-41d1-8db7-dc67fff72619.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/617383cd13ef9db91c13e66f0ba1b2c669136f50.jpg)
 
 This is a continuous process - not a one time event
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7bd1d07-57ec-425d-ab75-c9071337e617.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fee3aa029897f2e2d846025736da123bce298af9.jpg)
 
 Really spending time thinking about the data and information available and what isn't - that's what tells us the truth
