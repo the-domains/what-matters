@@ -1,6 +1,6 @@
 name: What Matters
 favicon: null
-layout_spectrum: 0.9695816305465996
+layout_spectrum: 0
 typography_spectrum: 0.35335
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#606060'
     - '#d9d9d9'
     - '#b5b5b5'
-  brandStrength: 0.3125
-  lightness: 0.5625
-  saturation: 0.1875
-  rhythmicContrast: 1
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
